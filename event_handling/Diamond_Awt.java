@@ -1,3 +1,9 @@
+/******************************************************************************
+  * Name: Aravind
+  * 
+  * Description: Creating Diamond using JAVA AWT
+ ****************************************************************************/
+
 package event_handling;
 import java.awt.*;
 import java.awt.event.WindowAdapter;
