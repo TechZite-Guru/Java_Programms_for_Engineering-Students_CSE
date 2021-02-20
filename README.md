@@ -14,3 +14,4 @@ This Repository contains codes:
 3.Programms on Event Handling and AWT
 
 So, download the programms and run it and tell me if you found any mistake.
+Don't forget to remove package name if you are downloading a single program.
