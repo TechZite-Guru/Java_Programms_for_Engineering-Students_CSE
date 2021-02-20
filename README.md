@@ -1,8 +1,8 @@
 # WELCOME HUBS
 
 ========================
-Name : Aravind
-Creditz : Aravind
+\nName : Aravind
+\nCreditz : Aravind
 =======================
 
 Here I am Providing all the Java Programms useful for Every Computer Student.
