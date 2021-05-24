@@ -1,0 +1,32 @@
+
+// starting class Check
+class Check {
+    
+    // boolean method checkNum
+    public static boolean checkNum(double val) {
+        if (val % 2 == 1) {
+            
+            //return true if the val is odd
+            return true;
+        }
+        else {
+            
+            //return false if the val is even
+            return false;
+        }
+    }
+}
+
+// starting class Test
+public class OddNumTest {
+    
+    // static and main method
+    public static void main(String[] args) {
+        
+        // declaring double variable var
+        double var = 10;
+        
+        // printing the output of the method checkNum() by calling it using it's class
+        System.out.print(Check.checkNum(var));
+    }
+}
